@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022035705774",
+    "project_id": "teacheraccount-cec5e",
+    "storage_bucket": "teacheraccount-cec5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022035705774:android:8abd1bf7d4d9ff4ebd923f",
+        "android_client_info": {
+          "package_name": "com.example.teacher_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YUUQWpRjydBWWtBpGxGtU1JRUd69-HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
